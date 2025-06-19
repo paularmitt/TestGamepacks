@@ -2,7 +2,7 @@
   {
     "Name": "Call of Duty",
     "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
-    "Image": "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Images/call_of_duty.png",
+    "Image": "/call_of_duty.png",
     "Url" : "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Gamepacks/call_of_duty.json"
   },
   {
@@ -14,7 +14,7 @@
   {
     "Name": "Fortnite",
     "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
-    "Image": "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Images/fortnite.png",
+    "Image": "/fortnite.png",
     "Url" : "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Gamepacks/fortnite.json"
   },
   {
