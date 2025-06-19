@@ -52,5 +52,11 @@
     "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
     "Image": "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Images/tekken_8.png",
     "Url" : "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Gamepacks/tekken_8.bin"
+  },
+  {
+    "Name": "Tekken 8 (fail)",
+    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
+    "Image": "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Images/tekken_8.png",
+    "Url" : ""
   }
 ]
