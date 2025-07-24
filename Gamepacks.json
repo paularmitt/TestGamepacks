@@ -1,62 +1,39 @@
 [
   {
+    "Name": "Rainbow 6 Seige",
+    "Details": "Customized profile to enhance your gameplay",
+    "Image": "Images/generic_shooter.svg",
+    "Url" : "Gamepacks/rainbow6_seige.bin"
+  },
+  {
+    "Name": "Splitgate 2",
+    "Details": "Give yourself the edge with this custom Splitgate gamepack",
+    "Image": "Images/generic_shooter.svg",
+    "Url" : "Gamepacks/splitgate2.bin"
+  },
+  {
     "Name": "Call of Duty",
-    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
-    "Image": "Images/call_of_duty.png",
+    "Details": "Conflict has never been easier",
+    "Image": "Images/generic_shooter.png",
     "Url" : "Gamepacks/call_of_duty.bin"
   },
   {
-    "Name": "Fallout",
-    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
-    "Image": "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Images/fallout.png",
-    "Url" : "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Gamepacks/fallout.bin"
-  },
+    "Name": "Gran Turismo 7",
+    "Details": "Make driving more fun with our custom pack",
+    "Image": "Images/generic_wheel.png",
+    "Url" : "Gamepacks/gran_turismo7.bin"
+  },  
   {
     "Name": "Fortnite",
-    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
-    "Image": "Images/fortnite.png",
+    "Details": "Battle Royale becomes that tiny bit easier..",
+    "Image": "Images/generic_shooter.png",
     "Url" : "Gamepacks/fortnite.bin"
   },
   {
-    "Name": "God of War",
-    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
-    "Image": "Images/god_of_war.png",
-    "Url" : "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Gamepacks/god_of_war.bin"
-  },
-  {
-    "Name": "Gran Turismo",
-    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
-    "Image": "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Images/gran_turismo.png",
-    "Url" : "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Gamepacks/gran_turismo.bin"
-  },
-  {
-    "Name": "GTA V",
-    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
-    "Image": "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Images/gta_v.png",
-    "Url" : "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Gamepacks/gta_v.bin"
-  },
-  {
-    "Name": "Last of Us",
-    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
-    "Image": "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Images/last_of_us.png",
-    "Url" : "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Gamepacks/last_of_us.bin"
-  },
-  {
-    "Name": "Resident Evil",
-    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
-    "Image": "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Images/resident_evil.png",
-    "Url" : "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Gamepacks/resident_evil.bin"
-  },
-  {
-    "Name": "Tekken 8",
-    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
-    "Image": "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Images/tekken_8.png",
-    "Url" : "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Gamepacks/tekken_8.bin"
-  },
-  {
-    "Name": "Tekken 8 (fail)",
-    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa elit, lacinia sit amet orci vel, vulputate vestibulum erat.",
-    "Image": "https://raw.githubusercontent.com/paularmitt/TestGamepacks/refs/heads/master/Images/tekken_8.png",
-    "Url" : ""
+    "Name": "Icons",
+    "Folder" : true,
+    "Details": "Battle Royale becomes that tiny bit easier..",
+    "Image": "Images/generic_shooter.png",
+    "Url" : "Gamepacks/Icons.json"
   }
 ]
